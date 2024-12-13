@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning all about Web, OWASP and MITRE<br>💬 Ask me about CyberSecurity, CTI<br>⚡ Fun fact: I'm forcing myself to write blogs about what i know but somebody knocks the door, the ADHD!
+🌱 I’m currently learning all about Malware Analysis, Cryptography and ATT&CK Framework<br>💬 Ask me about CyberSecurity, CTI<br>⚡ Fun fact: I'm forcing myself to write blogs about what i know but somebody knocks the door, the ADHD!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhan-eraslan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@serhaneraslan98) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhan-eraslan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@serhaneraslan) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
